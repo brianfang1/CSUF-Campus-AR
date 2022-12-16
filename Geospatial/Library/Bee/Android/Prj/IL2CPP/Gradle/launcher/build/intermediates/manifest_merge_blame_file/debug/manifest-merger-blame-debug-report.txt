@@ -1,0 +1,240 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.TestCompany.Geospatial"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-51
+20
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+21-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-64
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-79
+22-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-76
+23
+24    <uses-feature
+24-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:35
+25        android:name="android.hardware.location.gps"
+25-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-53
+26        android:required="True" />
+26-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-32
+27    <uses-feature
+27-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:35
+28        android:name="android.hardware.location"
+28-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-49
+29        android:required="True" />
+29-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-32
+30    <uses-feature
+30-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+31        android:name="android.hardware.touchscreen"
+31-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-52
+32        android:required="false" />
+32-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+33    <uses-feature
+33-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+34        android:name="android.hardware.touchscreen.multitouch"
+34-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-63
+35        android:required="false" />
+35-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+36    <uses-feature
+36-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-31:36
+37        android:name="android.hardware.touchscreen.multitouch.distinct"
+37-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-72
+38        android:required="false" />
+38-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-33
+39
+40    <uses-permission
+40-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-35:38
+41        android:name="android.permission.ACCESS_COARSE_LOCATION"
+41-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-65
+42        android:minSdkVersion="31" />
+42-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-35
+43    <uses-permission android:name="android.permission.CAMERA" />
+43-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-65
+43-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-62
+44
+45    <uses-feature
+45-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-40:35
+46        android:name="android.hardware.camera.ar"
+46-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-50
+47        android:required="true" />
+47-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-32
+48
+49    <queries>
+49-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:29:5-31:15
+50        <package android:name="com.google.ar.core" />
+50-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:30:9-54
+50-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:30:18-51
+51    </queries>
+52
+53    <application
+53-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+54        android:debuggable="true"
+55        android:extractNativeLibs="true"
+55-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:18-50
+56        android:icon="@mipmap/app_icon"
+56-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+57        android:label="@string/app_name" >
+57-->/Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+58        <activity
+58-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-63:20
+59            android:name="com.unity3d.player.UnityPlayerActivity"
+59-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-66
+60            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+60-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-194
+61            android:hardwareAccelerated="false"
+61-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-48
+62            android:launchMode="singleTask"
+62-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-44
+63            android:resizeableActivity="false"
+63-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-47
+64            android:screenOrientation="fullUser"
+64-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:13-49
+65            android:theme="@style/UnityThemeSelector" >
+65-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-54
+66            <intent-filter>
+66-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-55:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:17-69
+67-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:17-77
+69-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:27-74
+70            </intent-filter>
+71
+72            <meta-data
+72-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-59:40
+73                android:name="unityplayer.UnityActivity"
+73-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:17-57
+74                android:value="true" />
+74-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:17-37
+75            <meta-data
+75-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-62:40
+76                android:name="android.notch_support"
+76-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:17-53
+77                android:value="true" />
+77-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:17-37
+78        </activity>
+79
+80        <meta-data
+80-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-67:33
+81            android:name="unity.splash-mode"
+81-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-45
+82            android:value="0" />
+82-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-30
+83        <meta-data
+83-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:9-70:36
+84            android:name="unity.splash-enable"
+84-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-47
+85            android:value="True" />
+85-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-33
+86        <meta-data
+86-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-73:36
+87            android:name="unity.launch-fullscreen"
+87-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-51
+88            android:value="True" />
+88-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-33
+89        <meta-data
+89-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:9-76:37
+90            android:name="unity.allow-resizable-window"
+90-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-56
+91            android:value="False" />
+91-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:13-34
+92        <meta-data
+92-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:9-79:50
+93            android:name="notch.config"
+93-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-40
+94            android:value="portrait|landscape" />
+94-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:13-47
+95        <meta-data
+95-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:9-82:71
+96            android:name="com.google.android.ar.API_KEY"
+96-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-57
+97            android:value="AIzaSyCOhdxxSp6naAh8c-XO6-7kodbXHwqEZWw" />
+97-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-68
+98        <meta-data
+98-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:9-85:36
+99            android:name="unityplayer.SkipPermissionsDialog"
+99-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-61
+100            android:value="true" />
+100-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:13-33
+101        <meta-data
+101-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:9-88:40
+102            android:name="com.google.ar.core"
+102-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:13-46
+103            android:value="required" />
+103-->[:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:88:13-37
+104        <meta-data
+104-->[:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+105            android:name="com.google.android.gms.version"
+105-->[:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+106            android:value="@integer/google_play_services_version" />
+106-->[:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+107        <meta-data
+107-->[:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+108            android:name="android.support.VERSION"
+108-->[:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:27:13-51
+109            android:value="26.1.0" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+109-->[:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:28:13-35
+110        <meta-data
+110-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:36:9-38:41
+111            android:name="com.google.ar.core.min_apk_version"
+111-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:37:13-62
+112            android:value="221930000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+112-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:38:13-38
+113        <activity
+113-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:40:9-46:80
+114            android:name="com.google.ar.core.InstallActivity"
+114-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:41:13-62
+115            android:configChanges="keyboardHidden|orientation|screenSize"
+115-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:42:13-74
+116            android:excludeFromRecents="true"
+116-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:43:13-46
+117            android:exported="false"
+117-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:44:13-37
+118            android:launchMode="singleTop"
+118-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:45:13-43
+119            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+119-->[:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:46:13-77
+120        <activity
+120-->[:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+121-->[:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+122            android:exported="false"
+122-->[:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+123-->[:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+124
+125        <meta-data
+125-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+126            android:name="android.arch.lifecycle.VERSION"
+126-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:26:13-58
+127            android:value="27.0.0-SNAPSHOT" />
+127-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:27:13-44
+128    </application>
+129
+130</manifest>

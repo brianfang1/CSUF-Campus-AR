@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Brian\\Unity_Projects\\Geospatial\\Library\\PramData\\AndroidApplicationController\\Cache\\com.DefaultCompany.Geospatial\\gradle-project\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Brian\\.gradle\\caches\\transforms-2\\files-2.1\\b44c6a20b0c0d6062581d738e2d8687d\\arcore_client\\res\\values-fi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,235,283,412,546",
+                        "endColumns": "44,47,128,133,86",
+                        "endOffsets": "234,282,411,545,632"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,156,289,427",
+                        "endColumns": "48,51,132,137,90",
+                        "endOffsets": "99,151,284,422,513"
+                    }
+                }
+            ]
+        }
+    ]
+}

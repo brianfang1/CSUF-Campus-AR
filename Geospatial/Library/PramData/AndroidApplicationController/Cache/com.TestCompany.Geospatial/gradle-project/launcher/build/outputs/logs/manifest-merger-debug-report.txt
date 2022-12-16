@@ -1,0 +1,348 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-91:12
+MERGED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:17:1-49:12
+MERGED from [:UnityARCore:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/2753820475a84069b3f0ac57e6738f53/UnityARCore/AndroidManifest.xml:2:1-11:12
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-location-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/4811479608272888047172c2ee412464/com.google.android.gms.play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-places-placereport-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/0825466efb6f8d67e7b9aadf51d814cb/com.google.android.gms.play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/3998c240f5cfb53b5a82e22928537ad7/com.google.android.gms.play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [:ARPresto:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/5dfdf1fbee1a9101237ca30be8b33ffb/ARPresto/AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:6:1-15:12
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:70-106
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:107-153
+	android:versionCode
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:2:154-194
+supports-screens
+ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:5-89:19
+MERGED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:5-89:19
+MERGED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-location-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/4811479608272888047172c2ee412464/com.google.android.gms.play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-location-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/4811479608272888047172c2ee412464/com.google.android.gms.play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-places-placereport-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/0825466efb6f8d67e7b9aadf51d814cb/com.google.android.gms.play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-places-placereport-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/0825466efb6f8d67e7b9aadf51d814cb/com.google.android.gms.play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/3998c240f5cfb53b5a82e22928537ad7/com.google.android.gms.play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/3998c240f5cfb53b5a82e22928537ad7/com.google.android.gms.play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:18-50
+	android:label
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:UnityARCore:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/2753820475a84069b3f0ac57e6738f53/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/2753820475a84069b3f0ac57e6738f53/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-location-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/4811479608272888047172c2ee412464/com.google.android.gms.play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-location-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/4811479608272888047172c2ee412464/com.google.android.gms.play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.google.android.gms.play-services-places-placereport-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/0825466efb6f8d67e7b9aadf51d814cb/com.google.android.gms.play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-places-placereport-16.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/0825466efb6f8d67e7b9aadf51d814cb/com.google.android.gms.play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/3998c240f5cfb53b5a82e22928537ad7/com.google.android.gms.play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/3998c240f5cfb53b5a82e22928537ad7/com.google.android.gms.play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:ARPresto:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/5dfdf1fbee1a9101237ca30be8b33ffb/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:ARPresto:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/5dfdf1fbee1a9101237ca30be8b33ffb/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityandroidpermissions:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-76
+uses-feature#android.hardware.location.gps
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-53
+uses-feature#android.hardware.location
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:35
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-35:38
+	android:minSdkVersion
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-35
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-65
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-40:35
+	android:required
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-50
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-63:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-59:40
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-62:40
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-67:33
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:9-70:36
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-73:36
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:9-76:37
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:9-79:50
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-40
+meta-data#com.google.android.ar.API_KEY
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:9-82:71
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-68
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-57
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:9-85:36
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-61
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:9-88:40
+	android:value
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from [:unityLibrary] /Users/csuftitan/Documents/Unity Projects/Geospatial/Library/PramData/AndroidApplicationController/Cache/com.TestCompany.Geospatial/gradle-project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:13-46
+queries
+ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/b44c6a20b0c0d6062581d738e2d8687d/arcore_client/AndroidManifest.xml:41:13-62
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/66452b73c6addccc832c7b3c81d9e845/com.android.support.support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/dcb116767e5a5f07366853edba5522f8/com.android.support.support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/1abf8dae3f1b604af87527d3407b3dbb/com.android.support.support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/065e98bf999797f2f7b43b4a732c5f2c/com.android.support.support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/249e1a24d26337fe2c199cc43ac5a523/com.android.support.support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/de5dab19474f7bc055bdbb01a97fc143/com.android.support.support-compat-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/ad64e64e382a8943e8c32803e67dfeee/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:26:13-58
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/24740dd5859002307fe0385a67bc92b9/com.google.android.gms.play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/csuftitan/.gradle/caches/transforms-2/files-2.1/9dfbba0d19c6d78f6f3b80bcbabd668b/com.google.android.gms.play-services-base-16.0.1/AndroidManifest.xml:24:13-79
